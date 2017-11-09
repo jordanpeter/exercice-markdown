@@ -1,13 +1,13 @@
 # Mastering Markdown
 
-##Listes
+## Listes
 
-###Puces
+### Puces
 * puce 1
 * puce 2
 * puce 3
 
-###Numéros
+### Numéros
 1. numéro 1
 2. Numéro 2
 3. Numéro 3
@@ -15,7 +15,7 @@
 	2. Numéro 2bis
 	3. Numéro 3bis
 
-##Instertions
+## Instertions
 ![This is a mouse](/mouse.jpeg)
 
 
